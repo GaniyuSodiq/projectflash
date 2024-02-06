@@ -5,6 +5,25 @@
   text-align: center;
 }
 
+.question-form {
+  width: 500px;
+  background-color: bisque;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.q-box {
+  padding: 30px;
+  border: 1px red solid;
+  margin: 5px;
+}
+
+.qbox-container {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
